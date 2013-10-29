@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE contaopackage>
+<extension name="JustFade" date="20131030">
+    <author user="TheG33k" name="TheG33k" />
+    <copyright>&amp;copy; 2008-2013 by TheG33k</copyright>
+    <license>Creative Commons (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de)</license>
+    <classification type="free" category="utility" />
+    <release version="10000009" build="8" date="20131030" />
+    <contao minversion="30000009" maxversion="30010029" />
+    <language code="en">
+        <translator user="TheG33k" name="TheG33k" website="http://www.chaos-lordz.net" />
+        <searchtags>Coin Slider,slideshow,slide</searchtags>
+        <title>Coin Slider</title>
+        <teaser>Create your slideshow</teaser>
+        <description>&lt;p&gt;Integrate the slideshow Coin Slider into your website easily.&lt;br&gt;&lt;br&gt;
+The official website of the project is: http://workshop.rs/projects/coin-slider/&lt;br&gt;
+The modding repository is here: https://github.com/cHa0sLordz/coin-slider/&lt;br&gt;&lt;br&gt;Functionalities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All options can be configured in the backend.&lt;/li&gt;
+&lt;li&gt;Use the slideshow as menu by associating a page link with each image.&lt;/li&gt;
+&lt;li&gt;Coin Slider can be used as a content element or as a module.&lt;/li&gt;
+&lt;li&gt;Coin Slider pictures can be displayed random&lt;/li&gt;
+&lt;li&gt;Coin Slider pictures can be shown/hidden with the time shedule&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Important:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Each image must have the same size.&lt;/li&gt;
+&lt;li&gt;This version is currently using jQuery and can&#039;t operate separately.&lt;br&gt; After having updated Coin Slider, you should change your page layouts by selecting &quot;Include jQuery&quot;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <releasenotes>&lt;p&gt;Adds two new options.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Show navigation type text (previous and next).&lt;/li&gt;
+&lt;li&gt;Show navigation type squares.&lt;/li&gt;
+&lt;li&gt;Previous and next are always shown.&lt;/li&gt;
+&lt;/ul&gt;</releasenotes>
+        <forum link="https://github.com/cHa0sLordz/Coin-Slider-M0d" />
+    </language>
+    <language code="de">
+        <translator user="TheG33k" name="TheG33k" website="http://www.chaos-lordz.net" />
+        <searchtags>Slider,Fade,Coin,Banner,jQuery</searchtags>
+        <title>Coin-Slider-M0d</title>
+        <teaser>Diashow Coin-Slider mit Treppchen-Animation</teaser>
+        <description><description>&lt;p&gt;Integrieren Sie eine Diashow Coin-Slider auf einfache Weise in Ihre Website.&lt;br&gt;&lt;br&gt;
+Die offizielle Webseite des Projektes ist: http://workshop.rs/projects/coin-slider/&lt;br&gt;
+Das gemoddete Repository findet ihr unter: https://github.com/cHa0sLordz/coin-slider/&lt;br&gt;&lt;br&gt;Funktionen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle Optionen k&amp;ouml;nnen im Backend konfiguriert werden.&lt;/li&gt;
+&lt;li&gt;Verwenden Sie die Diashow als Men&amp;uuml;.&lt;/li&gt;
+&lt;li&gt;Coin Slider kann als Inhalts-Element oder als Modul benutzt werden.&lt;/li&gt;
+&lt;li&gt;Coin Slider Bilder können zufällig dargestellt werden&lt;/li&gt;
+&lt;li&gt;Coin Slider Bilder können nun per Zeitsteuerung gezeigt/versteckt werden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wichtig:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jedes Bild muss die selbe Gr&amp;ouml;&amp;szlig;e haben.&lt;/li&gt;
+&lt;li&gt;Diese Version nutzt jQuery und kann nicht seperat verwendet werden.&lt;br /&gt; Bitte vergiss nach der Installation nicht im Seitenlayout&quot;jQuery&quot; einzubinden.&lt;/li&gt;
+&lt;/ul&gt;</description>.</description>
+        <releasenotes>Zwei neue Funktionen hinzugefügt</releasenotes>
+        <forum link="https://github.com/cHa0sLordz/Coin-Slider-M0d" />
+    </language>
+</extension>
