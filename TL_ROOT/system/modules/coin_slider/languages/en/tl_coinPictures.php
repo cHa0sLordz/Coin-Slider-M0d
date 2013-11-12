@@ -18,6 +18,8 @@ $GLOBALS['TL_LANG']['tl_coinPictures']['singleSRC']   = array('Source file', 'Pl
 $GLOBALS['TL_LANG']['tl_coinPictures']['alt']         = array('Alternate text', 'An accessible website should always provide an alternate text for images and movies with a short description of their content.');
 $GLOBALS['TL_LANG']['tl_coinPictures']['imageUrl']    = array('Image link target', 'Associate a page with an image. You must activate the option “links” in the preferences of this Coin Slider. For external links, don\'t forget "http://".');
 $GLOBALS['TL_LANG']['tl_coinPictures']['published']   = array('Publish picture', 'Make the picture visible on the slideshow.');
+$GLOBALS['TL_LANG']['tl_coinPictures']['start']       = array('Show from', 'Do not show the picture on the website before this day.');
+$GLOBALS['TL_LANG']['tl_coinPictures']['stop']        = array('Show until', 'Do not show the picture on the website after this day.');
 $GLOBALS['TL_LANG']['tl_coinPictures']['size']        = array('Image width and height', 'Here you can set the image dimensions and the resize mode.');
 $GLOBALS['TL_LANG']['tl_coinPictures']['description'] = array('Image description', 'Here you can enter a short text that will be displayed below the image.');
 

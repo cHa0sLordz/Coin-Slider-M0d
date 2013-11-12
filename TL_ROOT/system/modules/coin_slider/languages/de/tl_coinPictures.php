@@ -37,6 +37,8 @@ $GLOBALS['TL_LANG']['tl_coinPictures']['singleSRC']   = array('Quell-Datei', 'Bi
 $GLOBALS['TL_LANG']['tl_coinPictures']['alt']         = array('Alternativer Text', 'Eine barrierefreie Webseite sollte immer einen alternativen Text für Bilder und Filme mit einer kurzen Beschreibung deren Inhalt enthalten.');
 $GLOBALS['TL_LANG']['tl_coinPictures']['imageUrl']    = array('Bildlink-Adresse', 'Verknüpfen Sie das Bild mit einer Seite. Die Option "Links" in den Eigenschaften dieses Coin-Sliders muss dazu aktiviert sein. Externe Links benötigen den Prefix "http://".');
 $GLOBALS['TL_LANG']['tl_coinPictures']['published']   = array('Bild veröffentlichen', 'Dieses Bild in der Diashow anzeigen.');
+$GLOBALS['TL_LANG']['tl_coinPictures']['start']   = array('Anzeigen ab', 'Das Bild erst ab diesem Tag auf der Webseite anzeigen.');
+$GLOBALS['TL_LANG']['tl_coinPictures']['stop']   = array('Anzeigen bis', 'Das Bild nur bis zu diesem Tag auf der Webseite anzeigen.');
 $GLOBALS['TL_LANG']['tl_coinPictures']['size']        = array('Bild-Breite und -Höhe', 'Hier können Sie die Bildabmessungen und den Zuschneide-Modus einstellen.');
 $GLOBALS['TL_LANG']['tl_coinPictures']['description'] = array('Bildbeschreibung', 'Hier können Sie einen kurzen Text eingeben, welcher unterhalb des Bildes angezeigt wird.');
 
