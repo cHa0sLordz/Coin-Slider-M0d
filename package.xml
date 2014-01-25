@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE contaopackage>
-<extension name="Coin-Slider-M0d" date="20131113">
+<extension name="Coin-Slider-M0d" date="20140125">
     <author user="TheGeek" name="The Geek" />
-    <copyright>© 2008-2013 by TheG33k</copyright>
+    <copyright>© 2008-2013 by TheGeek</copyright>
     <license>Creative Commons BY-NC-SA 3.0</license>
     <classification type="free" category="application" />
-    <release version="10000009" build="12" date="20131113" />
-    <contao minversion="30000009" maxversion="30020006" />
+    <release version="10000019" build="9" date="20140125" />
+    <contao minversion="30000009" maxversion="30020049" />
     <language code="en">
         <translator user="TheGeek" name="The Geek" />
         <searchtags>Coin Slider,slideshow,slide</searchtags>
@@ -27,7 +27,7 @@ The modding repository is here: https://github.com/cHa0sLordz/coin-slider/&lt;br
 &lt;li&gt;Each image must have the same size.&lt;/li&gt;
 &lt;li&gt;This version is currently using jQuery and can&#039;t operate separately.&lt;br&gt; After having updated Coin Slider, you should change your page layouts by selecting &quot;Include jQuery&quot;.&lt;/li&gt;
 &lt;/ul&gt;</description>
-        <releasenotes>&lt;p&gt;Adds two new options.&lt;/p&gt;</releasenotes>
+        <releasenotes>&lt;p&gt;Coin-Slider-M0d now works with Contao 3.2.4&lt;/p&gt;</releasenotes>
         <forum link="https://github.com/cHa0sLordz/Coin-Slider-M0d" />
     </language>
     <language code="de">
@@ -50,7 +50,7 @@ Das gemoddete Repository findet ihr unter: https://github.com/cHa0sLordz/coin-sl
 &lt;li&gt;Jedes Bild muss die selbe Größe haben.&lt;/li&gt;
 &lt;li&gt;Diese Version nutzt jQuery und kann nicht seperat verwendet werden.&lt;br&gt; Bitte vergiss nach der Installation nicht im Seitenlayout &quot;jQuery&quot; einzubinden.&lt;/li&gt;
 &lt;/ul&gt;</description>
-        <releasenotes>&lt;p&gt;Zwei neue Funktionen hinzugefügt&lt;/p&gt;</releasenotes>
+        <releasenotes>&lt;p&gt;Coin-Slider-M0d funktioniert nun mit Contao 3.2.4&lt;/p&gt;</releasenotes>
         <forum link="https://github.com/cHa0sLordz/Coin-Slider-M0d" />
     </language>
 </extension>
